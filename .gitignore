@@ -3,3 +3,12 @@
 .*
 moc_*
 *.out
+Makefile
+Makefile2
+*.log
+*.obj
+*.txt
+*.make
+*.cmake
+*.bin
+*/build/
